@@ -1,15 +1,4 @@
-Hi My name is Andrey Manaev
-I'm starting my journey in Python development.
-
-I started my way into the world of programming 1 year ago, changing the profile of my activity from personnel management. At this stage, I am finishing the Hexlet course.
-
-    🌍  I'm based in Batumi, Georgia
-    🖥️  See my portfolio at My Portfolio
-    ✉️  You can contact me at https://t.me/xBoCXoDx
-    🚀  I'm currently working on 4 Hexlet Project
-    🧠  I'm learning Django and Bootstrap
-    🤝  I'm open to collaborating on Gaming Development, Voice Assistant, AI, Backend Site and other
-    ⚡  I always dreamed of becoming a magician and only recently I realized where the real magic is going on...
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Manaev=====================================================================================================================================I'm starting my journey in Python development.----------------------------------------------I started my way into the world of programming 1 year ago, changing the profile of my activity from personnel management. At this stage, I am finishing the Hexlet course.* 🌍  I'm based in Batumi, Georgia* 🖥️  See my portfolio at [My Portfolio](http://github.com/BoCXoD-man?tab=repositories)* ✉️  You can contact me at [https://t.me/xBoCXoDx](mailto:https://t.me/xBoCXoDx)* 🚀  I'm currently working on [4 Hexlet Project](http://пока_нету)* 🧠  I'm learning Django and Bootstrap* 🤝  I'm open to collaborating on Gaming Development, Voice Assistant, AI, Backend Site and other* ⚡  I always dreamed of becoming a magician and only recently I realized where the real magic is going on...
 
 ### Skills
 
