@@ -9,7 +9,7 @@ I started my way into the world of programming 1 year ago, changing the profile 
 *   🌍  I'm based in Batumi, Georgia
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/BoCXoD-man?tab=repositories)
 *   ✉️  You can contact me at [https://t.me/xBoCXoDx](mailto:https://t.me/xBoCXoDx) or [https://an.manaev1988@gmail.com](mailto:an.manaev1988@gmail.com)
-*   🚀  I'm currently working on [4 Hexlet Project](http://пока_нету)
+*   🚀  I'm currently working on [4 Hexlet Project](https://github.com/BoCXoD-man/python-project-52)
 *   🧠  I'm learning Django and Bootstrap
 *   🤝  I'm open to collaborating on Gaming Development, Voice Assistant, AI, Backend Site and other
 *   ⚡  I always dreamed of becoming a magician and only recently I realized where the real magic is going on...
