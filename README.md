@@ -21,6 +21,11 @@
 
 Сейчас мой главный pet-project — **Nova**, локальный голосовой AI-ассистент на Python, которого я постепенно превращаю из эксперимента в полноценную систему.
 
+## 📂 Портфолио
+
+- 🐍 **[Python Developer Portfolio](https://github.com/BoCXoD-man/Python-Developer-Portfolio)** — Python-разработка, AI/LLM, приложения и автоматизация.
+- 🧪 **[QA Automation Portfolio](https://github.com/BoCXoD-man/QA-Portfolio)** — автоматизация тестирования, Pytest и Selenium.
+
 ---
 
 # 🚀 Сейчас в фокусе
